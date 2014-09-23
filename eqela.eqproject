@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# New
+#
+
+projectname: New
+vendorid: com.edward.example
+mainmodule: com.edward.example.new
